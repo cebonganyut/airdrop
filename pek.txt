@@ -1,3 +1,0 @@
-user=%7B%22id%22%3A7354051629%2C%22first_name%22%3A%22Moon%F0%9F%90%88%E2%80%8D%E2%AC%9B%20%F0%9F%8C%B1SEED%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=4250215837401124675&chat_type=sender&start_param=-hold_tasks-&auth_date=1727273467&hash=31991ca62035d143d6a206fd52e57d7974acd779133e435919e9a79e94100ff3
-user=%7B%22id%22%3A1362476787%2C%22first_name%22%3A%22Y%20A%20N%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22znxcyi%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=4379020214802951016&chat_type=sender&start_param=-hold_tasks-&auth_date=1727273093&hash=7b47d4ead88733ab36013e08a61dc5202a53637befdeda278ea9b6d04d8f3d0c
-
